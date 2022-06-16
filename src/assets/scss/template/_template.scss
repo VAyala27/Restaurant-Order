@@ -1,0 +1,19 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles 
+body,
+html,
+.body {
+  background: #f3f3f3 !important;
+}
+
+.red-bg {
+  background-color: #a30c2f;
+}
+
+.wrapper-inner {
+  th {
+    vertical-align: middle;
+  }
+}
